@@ -1,2 +1,36 @@
 
 /* css */
+#Logo{
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 800px;
+  text-align: center;
+  margin-top: auto;
+  white-space: nowrap;
+  align-content: center;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.col_black{
+    width: 100%;
+    height:7px;
+    background-color: black;
+    margin-bottom: 15px;
+}
+#img{
+    border: 5px solid black;   
+    border-radius: 10px;
+}
+#heading{
+   
+}
+#text{
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+    margin: 0%;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-right: 0%;
+}
